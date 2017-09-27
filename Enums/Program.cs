@@ -21,6 +21,7 @@ namespace Enums
             {
                 Console.WriteLine("Buy a " + CarType.Skoda);
             }
+
             Console.ReadLine();
         }
     }
